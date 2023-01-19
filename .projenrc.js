@@ -37,6 +37,7 @@ const project = new cdktf.ConstructLibraryCdktf({
     'cdktf.json',
   ],
   // release
+  npmAccess: NpmAccess.PUBLIC,
   releaseToNpm: true,
   publishToPypi: {
     distName: 'cdktf-github-actions',
