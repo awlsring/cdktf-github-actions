@@ -1,4 +1,6 @@
 const { cdktf } = require('projen');
+const { NpmAccess } = require('projen/lib/javascript');
+
 const project = new cdktf.ConstructLibraryCdktf({
   author: 'awlsring',
   authorAddress: 'mattcanemail@gmail.com',
