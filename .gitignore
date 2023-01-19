@@ -4,6 +4,7 @@
 !/.projen/deps.json
 !/.projen/files.json
 !/.github/workflows/pull-request-lint.yml
+!/.github/workflows/auto-approve.yml
 !/package.json
 !/LICENSE
 !/.npmignore
@@ -30,6 +31,17 @@ jspm_packages/
 *.tgz
 .yarn-integrity
 .cache
+.DS_Store
+**/*.js
+**/*.d.ts
+package-lock.json
+yarn.lock
+.gen
+.vscode
+cdktf.out
+terraform*
+.terraform*
+cdktf.json
 !/.projenrc.js
 /test-reports/
 junit.xml
