@@ -21,9 +21,11 @@ const project = new cdktf.ConstructLibraryCdktf({
   autoApproveUpgrades: true,
   autoApproveOptions: {
     secret: 'GITHUB_TOKEN',
-    allowedUsernames: ['awlsring', 'mergify[bot]'],
+    allowedUsernames: ['awlsring', 'github-actions'],
   },
-  projenUpgradeSecret: 'PROJEN_GITHUB_TOKEN',
+  githubOptions: {
+    projenTokenSecret: 'PROJEN_GITHUB_TOKEN',
+  },
   gitignore: [
     '.DS_Store',
     '**/*.js',
