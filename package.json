@@ -16,6 +16,7 @@
     "eslint": "npx projen eslint",
     "package": "npx projen package",
     "package-all": "npx projen package-all",
+    "package:dotnet": "npx projen package:dotnet",
     "package:js": "npx projen package:js",
     "package:python": "npx projen package:python",
     "post-compile": "npx projen post-compile",
@@ -35,6 +36,7 @@
     "organization": false
   },
   "devDependencies": {
+    "@awlsring/projen-commons": "^0.0.7",
     "@types/jest": "^27",
     "@types/node": "^14",
     "@typescript-eslint/eslint-plugin": "^5",
@@ -56,6 +58,7 @@
     "projen": "^0.67.10",
     "standard-version": "^9",
     "ts-jest": "^27",
+    "ts-node": "^10.9.1",
     "typescript": "^4.9.4"
   },
   "peerDependencies": {
@@ -129,7 +132,11 @@
     "targets": {
       "python": {
         "distName": "cdktf-github-actions",
-        "module": "cdktf_github_actions"
+        "module": "cdktf_github-actions"
+      },
+      "dotnet": {
+        "namespace": "Awlsring.CdktfGithubActions",
+        "packageId": "Awlsring.CdktfGithubActions"
       }
     },
     "tsc": {
