@@ -36,7 +36,7 @@
     "organization": false
   },
   "devDependencies": {
-    "@awlsring/projen-commons": "^0.0.14",
+    "@awlsring/projen-commons": "^0.0.15",
     "@types/jest": "^27",
     "@types/node": "^14",
     "@typescript-eslint/eslint-plugin": "^5",
@@ -55,7 +55,7 @@
     "jsii-pacmak": "^1.74.0",
     "json-schema": "^0.4.0",
     "npm-check-updates": "^16",
-    "projen": "^0.67.21",
+    "projen": "^0.67.22",
     "standard-version": "^9",
     "ts-jest": "^27",
     "ts-node": "^10.9.1",
