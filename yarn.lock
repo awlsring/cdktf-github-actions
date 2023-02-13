@@ -10,10 +10,10 @@
     "@jridgewell/gen-mapping" "^0.1.0"
     "@jridgewell/trace-mapping" "^0.3.9"
 
-"@awlsring/projen-commons@^0.0.28":
-  version "0.0.28"
-  resolved "https://registry.yarnpkg.com/@awlsring/projen-commons/-/projen-commons-0.0.28.tgz#6968fe91ece629e24dd01f1bea5bdba6ff54c7c3"
-  integrity sha512-+EMLTtRuHvafrnMZNraPYPczvTNqFJ9u67wMTOv7EzrMdGsDxcAp+wU7WsHMGR/XDHfFkIbbp7azPB/D6Gd7jA==
+"@awlsring/projen-commons@^0.0.29":
+  version "0.0.29"
+  resolved "https://registry.yarnpkg.com/@awlsring/projen-commons/-/projen-commons-0.0.29.tgz#d1ef28e8741ef187e1ca97941d7424ecb3d24c39"
+  integrity sha512-a8V/21/KwH5iWoykWFtXkkcw1knrBuym33gYWV1a3qRMiHQ9uiulXZCBJ4dMYp8eGTTYrX+ecqhgDZ2FGAK5WQ==
   dependencies:
     projen "^0.67.50"
 
@@ -4138,10 +4138,10 @@ jsii-diff@^1.74.0:
     log4js "^6.7.1"
     yargs "^16.2.0"
 
-jsii-docgen@^7.0.231:
-  version "7.0.231"
-  resolved "https://registry.yarnpkg.com/jsii-docgen/-/jsii-docgen-7.0.231.tgz#9d6178df75c8f464a33d17fbada10990c103fd10"
-  integrity sha512-xKb1TaqJrZV2K08eDzq495kXjmRa7hyxSi+iIkuqJtco9nlKfvmHRNnlCJFTCLR5UNUAV+DQXoeJVQgz/fDFFA==
+jsii-docgen@^7.0.232:
+  version "7.0.232"
+  resolved "https://registry.yarnpkg.com/jsii-docgen/-/jsii-docgen-7.0.232.tgz#b4c3faf90e94a394fe89bd55b70454308b89e175"
+  integrity sha512-+tK7bZUhCjlWPplKbktVH6T5LYlLLAa3DLBWQ8EhpaBMF6KnMS8lraYBKLpyszJ8aAfMhJEwVr7ZlihH5xjmeA==
   dependencies:
     "@jsii/spec" "^1.74.0"
     case "^1.6.3"
