@@ -25,10 +25,10 @@
     "@jridgewell/gen-mapping" "^0.3.0"
     "@jridgewell/trace-mapping" "^0.3.9"
 
-"@awlsring/projen-commons@^0.0.137":
-  version "0.0.137"
-  resolved "https://registry.yarnpkg.com/@awlsring/projen-commons/-/projen-commons-0.0.137.tgz#fb9eea1ecd8844908d4cfa4dc6ac5c28161d2459"
-  integrity sha512-PY9qs9BxwVk8+LxzLg4nX8Q28Py7qy6t6aD+2wovb9H59/oy+zi0TDS3V7NJSho9sYHIqd2adAXAqFduCM0d5A==
+"@awlsring/projen-commons@^0.0.138":
+  version "0.0.138"
+  resolved "https://registry.yarnpkg.com/@awlsring/projen-commons/-/projen-commons-0.0.138.tgz#48cc60106735b82d20d4445e83686f006b199838"
+  integrity sha512-sLGohZeq+6RyuBlirC5fXUVlkCaLdKWaPByVtFh1HCr7WGHgpQwVTQ75Aj6Z4M2VhrYV319X/7nAJY2+A4WoTg==
   dependencies:
     projen "^0.71.82"
 
@@ -1696,9 +1696,9 @@ camelcase@^7.0.1:
   integrity sha512-xlx1yCK2Oc1APsPXDL2LdlNP6+uu8OCDdhOBSVT279M/S+y75O30C2VuD8T2ogdePBBl7PfPF4504tnLgX3zfw==
 
 caniuse-lite@^1.0.30001489:
-  version "1.0.30001492"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001492.tgz#4a06861788a52b4c81fd3344573b68cc87fe062b"
-  integrity sha512-2efF8SAZwgAX1FJr87KWhvuJxnGJKOnctQa8xLOskAXNXq8oiuqgl6u1kk3fFpsp3GgvzlRjiK1sl63hNtFADw==
+  version "1.0.30001494"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001494.tgz#3e56e04a48da7a79eae994559eb1ec02aaac862f"
+  integrity sha512-sY2B5Qyl46ZzfYDegrl8GBCzdawSLT4ThM9b9F+aDYUrAG2zCOyMbd2Tq34mS1g4ZKBfjRlzOohQMxx28x6wJg==
 
 case@^1.6.3:
   version "1.6.3"
