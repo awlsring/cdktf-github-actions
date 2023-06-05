@@ -25,10 +25,10 @@
     "@jridgewell/gen-mapping" "^0.3.0"
     "@jridgewell/trace-mapping" "^0.3.9"
 
-"@awlsring/projen-commons@^0.0.138":
-  version "0.0.138"
-  resolved "https://registry.yarnpkg.com/@awlsring/projen-commons/-/projen-commons-0.0.138.tgz#48cc60106735b82d20d4445e83686f006b199838"
-  integrity sha512-sLGohZeq+6RyuBlirC5fXUVlkCaLdKWaPByVtFh1HCr7WGHgpQwVTQ75Aj6Z4M2VhrYV319X/7nAJY2+A4WoTg==
+"@awlsring/projen-commons@^0.0.139":
+  version "0.0.139"
+  resolved "https://registry.yarnpkg.com/@awlsring/projen-commons/-/projen-commons-0.0.139.tgz#6b631fc2d2849088a5f5026d12a9887bda6c55e8"
+  integrity sha512-hbF/a9W8M8TLA03acTPq5UdZTDJwpiVkbIlJJBO3h2URF3a+9CYYIzaI6CJCuvA77QQqjZonZ2zOgb9leqKXww==
   dependencies:
     projen "^0.71.82"
 
@@ -821,9 +821,9 @@
   integrity sha512-a31EnjuIDSX8IXBUib3cYLDRlPMU36AWX4xS8ysLaNu4ZzUesDiPt83pgrW2X1YLMe5L2HbDyaKK5BrL4cNKaQ==
 
 "@sindresorhus/is@^5.2.0":
-  version "5.4.0"
-  resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-5.4.0.tgz#b1bfbd6024311ade045093b424536cefcc8e3a42"
-  integrity sha512-Ggh6E9AnMpiNXlbXfFUcWE9qm408rL8jDi7+PMBBx7TMbwEmiqAiSmZ+zydYwxcJLqPGNDoLc9mXDuMDBZg0sA==
+  version "5.4.1"
+  resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-5.4.1.tgz#c4383ce702fb90531c3d310506bab89e70427c53"
+  integrity sha512-axlrvsHlHlFmKKMEg4VyvMzFr93JWJj4eIfXY1STVuO2fsImCa7ncaiG5gC8HKOX590AW5RtRsC41/B+OfrSqw==
 
 "@sinonjs/commons@^1.7.0":
   version "1.8.6"
