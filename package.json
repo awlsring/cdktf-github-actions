@@ -38,12 +38,13 @@
   "devDependencies": {
     "@actions/core": "^1.1.0",
     "@awlsring/projen-commons": "^0.0.195",
+    "@cdktf/provider-github": "5.0.0",
     "@types/jest": "^27",
     "@types/node": "^16",
     "@typescript-eslint/eslint-plugin": "^5",
     "@typescript-eslint/parser": "^5",
-    "cdktf": "0.14.3",
-    "constructs": "10.1.52",
+    "cdktf": "0.14.0",
+    "constructs": "10.0.25",
     "dot-prop": "^5.2.0",
     "eslint": "^8",
     "eslint-import-resolver-node": "^0.3.7",
@@ -64,12 +65,11 @@
     "typescript": "^4.9.5"
   },
   "peerDependencies": {
-    "@cdktf/provider-github": "^5.0.4",
-    "cdktf": "^0.14.3",
-    "constructs": "^10.1.52"
+    "@cdktf/provider-github": "^5.0.0",
+    "cdktf": "^0.14.0",
+    "constructs": "^10.0.25"
   },
   "dependencies": {
-    "@cdktf/provider-github": "^5.0.4",
     "decamelize": "^5.0.1",
     "yaml": "^2.3.1"
   },

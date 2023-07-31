@@ -10,6 +10,11 @@
       "type": "build"
     },
     {
+      "name": "@cdktf/provider-github",
+      "version": "5.0.0",
+      "type": "build"
+    },
+    {
       "name": "@types/jest",
       "version": "^27",
       "type": "build"
@@ -31,12 +36,12 @@
     },
     {
       "name": "cdktf",
-      "version": "0.14.3",
+      "version": "0.14.0",
       "type": "build"
     },
     {
       "name": "constructs",
-      "version": "10.1.52",
+      "version": "10.0.25",
       "type": "build"
     },
     {
@@ -140,21 +145,18 @@
     },
     {
       "name": "@cdktf/provider-github",
+      "version": "^5.0.0",
       "type": "peer"
     },
     {
       "name": "cdktf",
-      "version": "^0.14.3",
+      "version": "^0.14.0",
       "type": "peer"
     },
     {
       "name": "constructs",
-      "version": "^10.1.52",
+      "version": "^10.0.25",
       "type": "peer"
-    },
-    {
-      "name": "@cdktf/provider-github",
-      "type": "runtime"
     },
     {
       "name": "decamelize",
