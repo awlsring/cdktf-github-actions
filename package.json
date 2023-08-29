@@ -37,7 +37,7 @@
   },
   "devDependencies": {
     "@actions/core": "^1.1.0",
-    "@awlsring/projen-commons": "^0.0.223",
+    "@awlsring/projen-commons": "^0.0.224",
     "@cdktf/provider-github": "5.0.0",
     "@types/jest": "^27",
     "@types/node": "^16",
@@ -58,7 +58,7 @@
     "jsii-pacmak": "^1.88.0",
     "jsii-rosetta": "1.x",
     "npm-check-updates": "^16",
-    "projen": "^0.72.26",
+    "projen": "^0.72.28",
     "standard-version": "^9",
     "ts-jest": "^27",
     "ts-node": "^10.9.1",
@@ -71,7 +71,7 @@
   },
   "dependencies": {
     "decamelize": "^5.0.1",
-    "yaml": "^2.3.1"
+    "yaml": "^2.3.2"
   },
   "bundledDependencies": [
     "decamelize",
