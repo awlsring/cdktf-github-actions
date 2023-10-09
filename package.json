@@ -37,7 +37,7 @@
   },
   "devDependencies": {
     "@actions/core": "^1.1.0",
-    "@awlsring/projen-commons": "^0.0.225",
+    "@awlsring/projen-commons": "^0.0.226",
     "@cdktf/provider-github": "5.0.0",
     "@types/jest": "^27",
     "@types/node": "^16",
